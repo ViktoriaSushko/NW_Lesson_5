@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NW_Lesson_5/NW_Lesson_5.csproj" />
+  <Project Path="ShopLibrary/ShopLibrary.csproj" />
+  <Project Path="UDP_Client/UDP_Client.csproj" />
+  <Project Path="UDP_Server/UDP_Server.csproj" />
+</Solution>
